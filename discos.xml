@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<discos>
+  <album id="1">
+    <titulo>Disco 1</titulo>
+    <grupo>Grupo 1</grupo>
+    <fecha>
+      <anho>2001</anho>
+      <mes>2</mes>
+      <dia>2</dia>
+    </fecha>
+    <genero>Género 1</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 1</cancion>
+      <cancion pista="2">Canción 2 del disco 1</cancion>
+      <cancion pista="3">Canción 3 del disco 1</cancion>
+    </canciones>
+  </album>
+  <album id="2">
+    <titulo>Disco 2</titulo>
+    <grupo>Grupo 2</grupo>
+    <fecha>
+      <anho>2002</anho>
+      <mes>3</mes>
+      <dia>3</dia>
+    </fecha>
+    <genero>Género 2</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 2</cancion>
+      <cancion pista="2">Canción 2 del disco 2</cancion>
+      <cancion pista="3">Canción 3 del disco 2</cancion>
+    </canciones>
+  </album>
+  <album id="3">
+    <titulo>Disco 3</titulo>
+    <grupo>Grupo 3</grupo>
+    <fecha>
+      <anho>2003</anho>
+      <mes>4</mes>
+      <dia>4</dia>
+    </fecha>
+    <genero>Género 3</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 3</cancion>
+      <cancion pista="2">Canción 2 del disco 3</cancion>
+      <cancion pista="3">Canción 3 del disco 3</cancion>
+    </canciones>
+  </album>
+  <album id="4">
+    <titulo>Disco 4</titulo>
+    <grupo>Grupo 4</grupo>
+    <fecha>
+      <anho>2004</anho>
+      <mes>5</mes>
+      <dia>5</dia>
+    </fecha>
+    <genero>Género 4</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 4</cancion>
+      <cancion pista="2">Canción 2 del disco 4</cancion>
+      <cancion pista="3">Canción 3 del disco 4</cancion>
+    </canciones>
+  </album>
+  <album id="5">
+    <titulo>Disco 5</titulo>
+    <grupo>Grupo 5</grupo>
+    <fecha>
+      <anho>2005</anho>
+      <mes>6</mes>
+      <dia>6</dia>
+    </fecha>
+    <genero>Género 5</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 5</cancion>
+      <cancion pista="2">Canción 2 del disco 5</cancion>
+      <cancion pista="3">Canción 3 del disco 5</cancion>
+    </canciones>
+  </album>
+  <album id="6">
+    <titulo>Disco 6</titulo>
+    <grupo>Grupo 6</grupo>
+    <fecha>
+      <anho>2006</anho>
+      <mes>7</mes>
+      <dia>7</dia>
+    </fecha>
+    <genero>Género 6</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 6</cancion>
+      <cancion pista="2">Canción 2 del disco 6</cancion>
+      <cancion pista="3">Canción 3 del disco 6</cancion>
+    </canciones>
+  </album>
+  <album id="7">
+    <titulo>Disco 7</titulo>
+    <grupo>Grupo 7</grupo>
+    <fecha>
+      <anho>2007</anho>
+      <mes>8</mes>
+      <dia>8</dia>
+    </fecha>
+    <genero>Género 7</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 7</cancion>
+      <cancion pista="2">Canción 2 del disco 7</cancion>
+      <cancion pista="3">Canción 3 del disco 7</cancion>
+    </canciones>
+  </album>
+  <album id="8">
+    <titulo>Disco 8</titulo>
+    <grupo>Grupo 8</grupo>
+    <fecha>
+      <anho>2008</anho>
+      <mes>9</mes>
+      <dia>9</dia>
+    </fecha>
+    <genero>Género 8</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 8</cancion>
+      <cancion pista="2">Canción 2 del disco 8</cancion>
+      <cancion pista="3">Canción 3 del disco 8</cancion>
+    </canciones>
+  </album>
+  <album id="9">
+    <titulo>Disco 9</titulo>
+    <grupo>Grupo 9</grupo>
+    <fecha>
+      <anho>2009</anho>
+      <mes>10</mes>
+      <dia>10</dia>
+    </fecha>
+    <genero>Género 9</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 9</cancion>
+      <cancion pista="2">Canción 2 del disco 9</cancion>
+      <cancion pista="3">Canción 3 del disco 9</cancion>
+    </canciones>
+  </album>
+  <album id="10">
+    <titulo>Disco 10</titulo>
+    <grupo>Grupo 10</grupo>
+    <fecha>
+      <anho>2010</anho>
+      <mes>11</mes>
+      <dia>11</dia>
+    </fecha>
+    <genero>Género 10</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 10</cancion>
+      <cancion pista="2">Canción 2 del disco 10</cancion>
+      <cancion pista="3">Canción 3 del disco 10</cancion>
+    </canciones>
+  </album>
+  <album id="11">
+    <titulo>Disco 11</titulo>
+    <grupo>Grupo 11</grupo>
+    <fecha>
+      <anho>2011</anho>
+      <mes>12</mes>
+      <dia>12</dia>
+    </fecha>
+    <genero>Género 11</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 11</cancion>
+      <cancion pista="2">Canción 2 del disco 11</cancion>
+      <cancion pista="3">Canción 3 del disco 11</cancion>
+    </canciones>
+  </album>
+  <album id="12">
+    <titulo>Disco 12</titulo>
+    <grupo>Grupo 12</grupo>
+    <fecha>
+      <anho>2012</anho>
+      <mes>1</mes>
+      <dia>13</dia>
+    </fecha>
+    <genero>Género 12</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 12</cancion>
+      <cancion pista="2">Canción 2 del disco 12</cancion>
+      <cancion pista="3">Canción 3 del disco 12</cancion>
+    </canciones>
+  </album>
+  <album id="13">
+    <titulo>Disco 13</titulo>
+    <grupo>Grupo 13</grupo>
+    <fecha>
+      <anho>2013</anho>
+      <mes>2</mes>
+      <dia>14</dia>
+    </fecha>
+    <genero>Género 13</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 13</cancion>
+      <cancion pista="2">Canción 2 del disco 13</cancion>
+      <cancion pista="3">Canción 3 del disco 13</cancion>
+    </canciones>
+  </album>
+  <album id="14">
+    <titulo>Disco 14</titulo>
+    <grupo>Grupo 14</grupo>
+    <fecha>
+      <anho>2014</anho>
+      <mes>3</mes>
+      <dia>15</dia>
+    </fecha>
+    <genero>Género 14</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 14</cancion>
+      <cancion pista="2">Canción 2 del disco 14</cancion>
+      <cancion pista="3">Canción 3 del disco 14</cancion>
+    </canciones>
+  </album>
+  <album id="15">
+    <titulo>Disco 15</titulo>
+    <grupo>Grupo 15</grupo>
+    <fecha>
+      <anho>2015</anho>
+      <mes>4</mes>
+      <dia>16</dia>
+    </fecha>
+    <genero>Género 15</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 15</cancion>
+      <cancion pista="2">Canción 2 del disco 15</cancion>
+      <cancion pista="3">Canción 3 del disco 15</cancion>
+    </canciones>
+  </album>
+  <album id="16">
+    <titulo>Disco 16</titulo>
+    <grupo>Grupo 16</grupo>
+    <fecha>
+      <anho>2016</anho>
+      <mes>5</mes>
+      <dia>17</dia>
+    </fecha>
+    <genero>Género 16</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 16</cancion>
+      <cancion pista="2">Canción 2 del disco 16</cancion>
+      <cancion pista="3">Canción 3 del disco 16</cancion>
+    </canciones>
+  </album>
+  <album id="17">
+    <titulo>Disco 17</titulo>
+    <grupo>Grupo 17</grupo>
+    <fecha>
+      <anho>2017</anho>
+      <mes>6</mes>
+      <dia>18</dia>
+    </fecha>
+    <genero>Género 17</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 17</cancion>
+      <cancion pista="2">Canción 2 del disco 17</cancion>
+      <cancion pista="3">Canción 3 del disco 17</cancion>
+    </canciones>
+  </album>
+  <album id="18">
+    <titulo>Disco 18</titulo>
+    <grupo>Grupo 18</grupo>
+    <fecha>
+      <anho>2018</anho>
+      <mes>7</mes>
+      <dia>19</dia>
+    </fecha>
+    <genero>Género 18</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 18</cancion>
+      <cancion pista="2">Canción 2 del disco 18</cancion>
+      <cancion pista="3">Canción 3 del disco 18</cancion>
+    </canciones>
+  </album>
+  <album id="19">
+    <titulo>Disco 19</titulo>
+    <grupo>Grupo 19</grupo>
+    <fecha>
+      <anho>2019</anho>
+      <mes>8</mes>
+      <dia>20</dia>
+    </fecha>
+    <genero>Género 19</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 19</cancion>
+      <cancion pista="2">Canción 2 del disco 19</cancion>
+      <cancion pista="3">Canción 3 del disco 19</cancion>
+    </canciones>
+  </album>
+  <album id="20">
+    <titulo>Disco 20</titulo>
+    <grupo>Grupo 20</grupo>
+    <fecha>
+      <anho>2020</anho>
+      <mes>9</mes>
+      <dia>21</dia>
+    </fecha>
+    <genero>Género 20</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 20</cancion>
+      <cancion pista="2">Canción 2 del disco 20</cancion>
+      <cancion pista="3">Canción 3 del disco 20</cancion>
+    </canciones>
+  </album>
+  <album id="21">
+    <titulo>Disco 21</titulo>
+    <grupo>Grupo 21</grupo>
+    <fecha>
+      <anho>2021</anho>
+      <mes>10</mes>
+      <dia>22</dia>
+    </fecha>
+    <genero>Género 21</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 21</cancion>
+      <cancion pista="2">Canción 2 del disco 21</cancion>
+      <cancion pista="3">Canción 3 del disco 21</cancion>
+    </canciones>
+  </album>
+  <album id="22">
+    <titulo>Disco 22</titulo>
+    <grupo>Grupo 22</grupo>
+    <fecha>
+      <anho>2022</anho>
+      <mes>11</mes>
+      <dia>23</dia>
+    </fecha>
+    <genero>Género 22</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 22</cancion>
+      <cancion pista="2">Canción 2 del disco 22</cancion>
+      <cancion pista="3">Canción 3 del disco 22</cancion>
+    </canciones>
+  </album>
+  <album id="23">
+    <titulo>Disco 23</titulo>
+    <grupo>Grupo 23</grupo>
+    <fecha>
+      <anho>2023</anho>
+      <mes>12</mes>
+      <dia>24</dia>
+    </fecha>
+    <genero>Género 23</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 23</cancion>
+      <cancion pista="2">Canción 2 del disco 23</cancion>
+      <cancion pista="3">Canción 3 del disco 23</cancion>
+    </canciones>
+  </album>
+  <album id="24">
+    <titulo>Disco 24</titulo>
+    <grupo>Grupo 24</grupo>
+    <fecha>
+      <anho>2024</anho>
+      <mes>1</mes>
+      <dia>25</dia>
+    </fecha>
+    <genero>Género 24</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 24</cancion>
+      <cancion pista="2">Canción 2 del disco 24</cancion>
+      <cancion pista="3">Canción 3 del disco 24</cancion>
+    </canciones>
+  </album>
+  <album id="25">
+    <titulo>Disco 25</titulo>
+    <grupo>Grupo 25</grupo>
+    <fecha>
+      <anho>2025</anho>
+      <mes>2</mes>
+      <dia>26</dia>
+    </fecha>
+    <genero>Género 25</genero>
+    <canciones>
+      <cancion pista="1">Canción 1 del disco 25</cancion>
+      <cancion pista="2">Canción 2 del disco 25</cancion>
+      <cancion pista="3">Canción 3 del disco 25</cancion>
+    </canciones>
+  </album>
+</discos>
